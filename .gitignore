@@ -1,0 +1,6 @@
+# 비밀 키 (커밋 금지)
+.env
+
+# 임시 데이터
+research/data/raw/
+__pycache__/
